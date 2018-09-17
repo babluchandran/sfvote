@@ -1,0 +1,3 @@
+url : https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-quickstart-dotnet
+
+.NET Core Serice Fabric with stateful service
